@@ -177,6 +177,10 @@ input{
     }
     .st{
         font-size: 12px;
+        transform: translateX(-130%);
+    }
+    .sti{
+        transform: translateX(0);
     }
 }
 
